@@ -9,7 +9,7 @@ and MongoDB. I enjoy building applications that combine secure backend
 systems, thoughtful interfaces and practical AI integrations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anushka218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka218)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka_Bhadauria-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka_Bhadauria-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-bhadauria/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadauriaanushka370@gmail.com)
 
 </div>
@@ -206,8 +206,8 @@ communication, confidence and leadership.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GEEKSFORGEEKS_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anushka__218-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anushka_218/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bhadauriaannjy)
 [![GitHub](https://img.shields.io/badge/GitHub-Anushka218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka218)
 
 </div>
@@ -242,7 +242,7 @@ directly below this README.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka_Bhadauria-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka_Bhadauria-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-bhadauria/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadauriaanushka370@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Anushka218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka218)
 
