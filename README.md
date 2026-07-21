@@ -80,7 +80,7 @@ personalized profiles and speech-based interaction.
 `React` · `Vite` · `Node.js` · `Express.js` · `MongoDB`  
 `Web Speech API` · `Cloudinary` · `Multer` · `AI API Integration`
 
-[View Repository](YOUR_VEXA_REPOSITORY_URL)
+[View Repository](https://github.com/devannshi-24/Vexa.git)
 
 </td>
 </tr>
