@@ -54,7 +54,7 @@ guidance.
 `React.js` · `Node.js` · `Express.js` · `MongoDB`  
 `GSAP` · `Groq API` · `LangGraph` · `Firebase Cloud Messaging`
 
-[View Repository](YOUR_MEDSYNC_REPOSITORY_URL)
+[View Repository]((https://github.com/devannshi-24/medsync.git))
 
 </td>
 <td width="50%" valign="top">
