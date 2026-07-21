@@ -53,7 +53,7 @@ guidance.
 
 `React.js` · `Node.js` · `Express.js` · `MongoDB`  
 `GSAP` · `Groq API` · `LangGraph` · `Firebase Cloud Messaging`
-[https://github.com/devannshi-24/medsync.git]
+https://github.com/devannshi-24/medsync.git
 </td>
 <td width="50%" valign="top">
 
