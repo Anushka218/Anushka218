@@ -10,7 +10,7 @@ systems, thoughtful interfaces and practical AI integrations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anushka218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka218)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka_Bhadauria-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-bhadauria/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadauriaanushka75@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bhadauriaanushka370@gmail.com)
 
 </div>
 
